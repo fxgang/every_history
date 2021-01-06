@@ -5,4 +5,5 @@ echo "\n Now file is exist branch wxrong"
 echo "\n add branch lxming"
 echo "\n delete old error"
 echo "\n 修改完成"
+echo "\n 新增数据"
 ?>
